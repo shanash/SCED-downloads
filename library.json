@@ -438,6 +438,18 @@
       "description": "This will replace the corresponding cards for all purposes!"
     },
     {
+      "name": "Korean - Documents",
+      "type": "language-pack",
+      "author": "Fantasy Flight Games",
+      "decomposed": false,
+      "filename": "korean_documents",
+      "boxsize": "big",
+      "boxart": "https://steamusercontent-a.akamaihd.net/ugc/16934989354534523224/1F604B8F8725E32DEA04B35261A00B5B38E5D911/",
+      "description": "Korean localized rule documents (Rules Reference, FAQ, etc.)",
+      "addToEncounterCards": true,
+      "replaceSceneObjects": true
+    },
+    {
       "name": "Polish - Campaigns",
       "type": "language-pack",
       "author": "Fantasy Flight Games",
