@@ -3,10 +3,10 @@
   "CustomDeck": {
     "4409": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2490018946439512966/BCC0FA105A526F225600FA7E53320072BA3DBF03/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2490018946439512858/F9358C454384AF4D8207BC2057773D405B4E85BF/",
+      "BackURL": "https://pub-05b4fa32b44341d797f5c66d59384724.r2.dev/ugc/2019339430613290442/7AD20BB3D5B10C1D72E09C84B00932DF5D5E0697.jpg",
+      "FaceURL": "https://pub-05b4fa32b44341d797f5c66d59384724.r2.dev/ugc/2019339430613290317/6892A865A31E6767BCCE519BD5C92AC9BE4A21AB.jpg",
       "NumHeight": 2,
-      "NumWidth": 2,
+      "NumWidth": 5,
       "Type": 0,
       "UniqueBack": true
     }
@@ -15,7 +15,7 @@
   "GMNotes": "{\n  \"id\": \"08004\"\n}",
   "GUID": "49634c",
   "Name": "Card",
-  "Nickname": "Norman Withers (promo version)",
+  "Nickname": "Norman Withers",
   "SidewaysCard": true,
   "Transform": {
     "scaleX": 1.15,
