@@ -3,10 +3,10 @@
   "CustomDeck": {
     "40041": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/51322199275577829/2688087ACD8173BADEAABA2B925CC14E160A2785/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/51322199275577877/C0DEA493245EADD452A3C2FC0D068D6F15526AEF/",
-      "NumHeight": 1,
-      "NumWidth": 1,
+      "BackURL": "https://pub-05b4fa32b44341d797f5c66d59384724.r2.dev/ugc/2019339430613298972/69E24118B510612B14FC96D240842A84DE30DD02.jpg",
+      "FaceURL": "https://pub-05b4fa32b44341d797f5c66d59384724.r2.dev/ugc/2019339430613298833/870CD1834C639B7714B64FD8383F3F046900CC14.jpg",
+      "NumHeight": 2,
+      "NumWidth": 4,
       "Type": 0,
       "UniqueBack": true
     }

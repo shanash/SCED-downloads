@@ -3,10 +3,10 @@
   "CustomDeck": {
     "2724": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2259182745941081566/7BC6043ACD2365E3D7CD2B3621D069E431EB151C/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2259182745941082208/60BA9565594B5CBED0ED64364AC7A74A4D560A2F/",
-      "NumHeight": 7,
-      "NumWidth": 10,
+      "BackURL": "https://pub-05b4fa32b44341d797f5c66d59384724.r2.dev/ugc/2019339430613298709/89EC43C19B92976AB9B926DAEBA755842A8ED0C0.jpg",
+      "FaceURL": "https://pub-05b4fa32b44341d797f5c66d59384724.r2.dev/ugc/2019339430613298579/2899088E06457AEBC0B382E50DFD0371C910348A.jpg",
+      "NumHeight": 2,
+      "NumWidth": 3,
       "Type": 0,
       "UniqueBack": true
     }
@@ -15,7 +15,7 @@
   "GMNotes": "{\n  \"id\": \"07005\"\n}",
   "GUID": "cd3308",
   "Name": "Card",
-  "Nickname": "Silas Marsh (promo version)",
+  "Nickname": "Silas Marsh",
   "SidewaysCard": true,
   "Transform": {
     "scaleX": 1.15,
