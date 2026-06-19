@@ -1,5 +1,5 @@
 {
-  "CardID": 800159,
+  "CardID": 800101,
   "CustomDeck": {
     "8001": {
       "BackIsHidden": true,
@@ -7,13 +7,14 @@
       "FaceURL": "https://pub-05b4fa32b44341d797f5c66d59384724.r2.dev/langpack/images/sha256/61/613c00be2f5f783946c67015efd6f4182b7730889f03a89816d3c638842f33ec.png",
       "NumHeight": 6,
       "NumWidth": 10,
-      "Type": 0
+      "Type": 0,
+      "UniqueBack": true
     }
   },
-  "GMNotes": "{\n  \"id\": \"07269-t\"\n}",
-  "GUID": "25b73a",
-  "Name": "Card",
-  "Nickname": "A Watchful Peace (3) (Taboo)",
+  "GMNotes": "{\n  \"id\": \"01573-t\"\n}",
+  "GUID": "3dc4d6",
+  "Name": "CardCustom",
+  "Nickname": "Scavenging (Taboo)",
   "Transform": {
     "scaleX": 1,
     "scaleY": 1,
