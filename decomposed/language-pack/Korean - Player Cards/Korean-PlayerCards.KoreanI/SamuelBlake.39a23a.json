@@ -1,0 +1,24 @@
+{
+  "CardID": 9009300,
+  "CustomDeck": {
+    "90093": {
+      "BackIsHidden": true,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/13122448189625193699/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+      "FaceURL": "https://pub-05b4fa32b44341d797f5c66d59384724.r2.dev/langpack/images/sha256/50/50ef950a968ab34df7d5f08476a3a4787b29300d518d70f775aad4f241246b44.png",
+      "NumHeight": 1,
+      "NumWidth": 1,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "Тактика. Экспромт.",
+  "GMNotes": "{\n  \"id\": \"90093\"\n}",
+  "GUID": "39a23a",
+  "Name": "Card",
+  "Nickname": "Samuel Blake",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}
