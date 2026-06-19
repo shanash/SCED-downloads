@@ -1,12 +1,12 @@
 {
-  "CardID": 15400,
+  "CardID": 800331,
   "CustomDeck": {
-    "154": {
+    "8003": {
       "BackIsHidden": true,
       "BackURL": "https://pub-05b4fa32b44341d797f5c66d59384724.r2.dev/ugc/1915736343877239630/B1BF31EBC5D92EC3A51B6D3B56ABFB232D2636C5.jpg",
-      "FaceURL": "https://pub-05b4fa32b44341d797f5c66d59384724.r2.dev/langpack/parallel/searching_for_izzie_90086.jpg",
-      "NumHeight": 1,
-      "NumWidth": 1,
+      "FaceURL": "https://pub-05b4fa32b44341d797f5c66d59384724.r2.dev/langpack/images/sha256/37/37fad72f52e74b482d0ff5da6247a0c8d3a7c980141c18d4c07d20d5a9f9034b.png",
+      "NumHeight": 6,
+      "NumWidth": 6,
       "Type": 0,
       "UniqueBack": true
     }
