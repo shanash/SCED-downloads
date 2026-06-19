@@ -1,0 +1,24 @@
+{
+  "CardID": 9008900,
+  "CustomDeck": {
+    "90089": {
+      "BackIsHidden": true,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/13122448189625193699/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+      "FaceURL": "https://pub-05b4fa32b44341d797f5c66d59384724.r2.dev/langpack/images/sha256/2b/2bf2af5946d6b87ca95329687844b1d3253c98775af17712ed2b5c1f5eb24da8.png",
+      "NumHeight": 1,
+      "NumWidth": 1,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "Тактика. Экспромт.",
+  "GMNotes": "{\n  \"id\": \"90089\"\n}",
+  "GUID": "7bff7b",
+  "Name": "Card",
+  "Nickname": "The Leading Lady (Mentor)",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}
