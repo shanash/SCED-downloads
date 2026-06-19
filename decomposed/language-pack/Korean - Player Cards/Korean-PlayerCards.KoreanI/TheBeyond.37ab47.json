@@ -1,12 +1,12 @@
 {
-  "CardID": 847100,
+  "CardID": 800320,
   "CustomDeck": {
-    "8471": {
+    "8003": {
       "BackIsHidden": true,
       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2495648990682366893/02BF93D9A0209CAD0A64D6A00541CB51D486F220/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2495648990682366810/62BB087906ED190A0BEE4DEBC4E9AA180FCE6762/",
-      "NumHeight": 1,
-      "NumWidth": 1,
+      "FaceURL": "https://pub-05b4fa32b44341d797f5c66d59384724.r2.dev/langpack/images/sha256/37/37fad72f52e74b482d0ff5da6247a0c8d3a7c980141c18d4c07d20d5a9f9034b.png",
+      "NumHeight": 6,
+      "NumWidth": 6,
       "Type": 0,
       "UniqueBack": true
     }
