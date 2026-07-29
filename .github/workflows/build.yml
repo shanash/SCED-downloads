@@ -10,6 +10,18 @@ on:
         required: true
         type: string
 
+# Serialised with daily-upstream-sync.yml, which publishes release assets to this
+# same repo. `cancel-in-progress: false` because a cancelled upload would leave a
+# release short of its 202 assets, and every user reads releases/latest.
+concurrency:
+  group: korean-release-assets
+  cancel-in-progress: false
+
+# Inert by construction, kept for upstream parity. `Makefile:2,5` assign
+# SCED_BRANCH and TTS_MOD_MANAGER_VERSION with `:=`, and GNU Make precedence is
+# command line > makefile > environment -- so a makefile `:=` always wins over
+# these, even once the repository variables are set. Pinning therefore has to be
+# passed as a command-line assignment to `make init` (see below).
 env:
   SCED_TAG: ${{ vars.SCED_TAG }}
   TTS_MOD_MANAGER_VERSION: ${{ vars.TTS_MOD_MANAGER_VERSION }}
@@ -24,7 +36,10 @@ jobs:
       - uses: actions/setup-python@v6.2.0
         with:
           python-version: "3.14"
-      - run: make init
+      # Command-line assignment is the only form that overrides `Makefile:2,5`.
+      # Without it this clones argonui/SCED@main and fetches TTSModManager@latest,
+      # so an unrelated third-party push can change what a release contains.
+      - run: make init TTS_MOD_MANAGER_VERSION=v1.3 SCED_BRANCH=main
       - run: make build
       - run: make minify
       - uses: softprops/action-gh-release@v3.0.0
