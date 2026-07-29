@@ -28,6 +28,17 @@ env:
 
 jobs:
   build:
+    # The local nightly driver (SCED-tools/scripts/daily-sync-local.sh) uploads all
+    # 202 assets to a draft, confirms the count server-side, and only then flips the
+    # draft live. Without this guard the resulting `published` event would rebuild
+    # here and re-upload unverified assets over the verified ones, and
+    # `generate_release_notes: true` would overwrite the body that records the build
+    # provenance. A release made by hand carries no marker and still builds exactly as
+    # before; releases made by daily-upstream-sync.yml use GITHUB_TOKEN, which
+    # suppresses the event outright.
+    if: >-
+      github.event_name != 'release' ||
+      !contains(github.event.release.body, 'sced-local-sync: assets-already-attached')
     runs-on: ubuntu-latest
     permissions:
       contents: write
