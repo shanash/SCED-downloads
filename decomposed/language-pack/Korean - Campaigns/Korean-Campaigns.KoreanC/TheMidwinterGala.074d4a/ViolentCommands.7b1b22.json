@@ -10,11 +10,11 @@
       "Type": 0
     }
   },
-  "Description": "Terror.",
+  "Description": "두려움.",
   "GMNotes": "{\n  \"id\": \"71062\"\n}",
   "GUID": "7b1b22",
   "Name": "Card",
-  "Nickname": "Violent Commands",
+  "Nickname": "폭력적인 명령",
   "Transform": {
     "scaleX": 1,
     "scaleY": 1,
