@@ -10,11 +10,11 @@
       "Type": 0
     }
   },
-  "Description": "Hex.",
+  "Description": "주술.",
   "GMNotes": "{\n  \"id\": \"71059\"\n}",
   "GUID": "6e7772",
   "Name": "Card",
-  "Nickname": "Pushed into the Beyond",
+  "Nickname": "너머로 떠밀리다",
   "Transform": {
     "scaleX": 1,
     "scaleY": 1,

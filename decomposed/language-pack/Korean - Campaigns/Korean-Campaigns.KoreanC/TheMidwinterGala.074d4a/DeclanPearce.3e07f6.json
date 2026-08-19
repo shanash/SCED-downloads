@@ -10,11 +10,11 @@
       "Type": 0
     }
   },
-  "Description": "Lantern Club Nomarch",
+  "Description": "랜턴 클럽 수장",
   "GMNotes": "{\n  \"id\": \"71051\"\n}",
   "GUID": "3e07f6",
   "Name": "Card",
-  "Nickname": "Declan Pearce",
+  "Nickname": "데클란 피어스",
   "Transform": {
     "scaleX": 1,
     "scaleY": 1,

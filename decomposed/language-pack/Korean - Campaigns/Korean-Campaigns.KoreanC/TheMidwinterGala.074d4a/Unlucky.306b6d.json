@@ -10,11 +10,11 @@
       "Type": 0
     }
   },
-  "Description": "Misfortune. Rival.",
+  "Description": "불운. 라이벌.",
   "GMNotes": "{\n  \"id\": \"71044\"\n}",
   "GUID": "306b6d",
   "Name": "Card",
-  "Nickname": "Unlucky",
+  "Nickname": "운수 사나운 날",
   "Transform": {
     "scaleX": 1,
     "scaleY": 1,
