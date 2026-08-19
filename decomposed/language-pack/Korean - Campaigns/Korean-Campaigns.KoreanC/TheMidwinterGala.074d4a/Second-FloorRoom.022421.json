@@ -11,11 +11,11 @@
       "UniqueBack": true
     }
   },
-  "Description": "Manor. Private. Second Floor.",
+  "Description": "저택. 개인. 2층.",
   "GMNotes": "{\n  \"id\": \"71014\"\n}",
   "GUID": "022421",
   "Name": "Card",
-  "Nickname": "Second-Floor Room",
+  "Nickname": "2층 방",
   "Transform": {
     "scaleX": 1,
     "scaleY": 1,
