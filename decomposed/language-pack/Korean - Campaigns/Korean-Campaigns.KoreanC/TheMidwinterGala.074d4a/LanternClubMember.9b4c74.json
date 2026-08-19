@@ -10,11 +10,11 @@
       "Type": 0
     }
   },
-  "Description": "Humanoid. Lantern Club.",
+  "Description": "인간형. 랜턴 클럽.",
   "GMNotes": "{\n  \"id\": \"71053\"\n}",
   "GUID": "9b4c74",
   "Name": "Card",
-  "Nickname": "Lantern Club Member",
+  "Nickname": "랜턴 클럽 회원",
   "Transform": {
     "scaleX": 1,
     "scaleY": 1,
