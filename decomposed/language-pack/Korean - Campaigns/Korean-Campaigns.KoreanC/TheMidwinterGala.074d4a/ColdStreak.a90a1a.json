@@ -10,11 +10,11 @@
       "Type": 0
     }
   },
-  "Description": "Misfortune. Rival.",
+  "Description": "불운. 라이벌.",
   "GMNotes": "{\n  \"id\": \"71032\"\n}",
   "GUID": "a90a1a",
   "Name": "Card",
-  "Nickname": "Cold Streak",
+  "Nickname": "불운의 연속",
   "Transform": {
     "scaleX": 1,
     "scaleY": 1,

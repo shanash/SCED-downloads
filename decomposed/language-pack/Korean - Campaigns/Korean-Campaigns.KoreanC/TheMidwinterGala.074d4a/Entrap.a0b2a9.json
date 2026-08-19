@@ -10,11 +10,11 @@
       "Type": 0
     }
   },
-  "Description": "Hazard.",
+  "Description": "위험.",
   "GMNotes": "{\n  \"id\": \"71055\"\n}",
   "GUID": "a0b2a9",
   "Name": "Card",
-  "Nickname": "Entrap",
+  "Nickname": "덫",
   "Transform": {
     "scaleX": 1,
     "scaleY": 1,

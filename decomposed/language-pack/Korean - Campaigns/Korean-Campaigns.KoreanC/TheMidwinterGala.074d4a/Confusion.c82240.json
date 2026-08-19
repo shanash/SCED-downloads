@@ -10,11 +10,11 @@
       "Type": 0
     }
   },
-  "Description": "Blunder. Rival.",
+  "Description": "실책. 라이벌.",
   "GMNotes": "{\n  \"id\": \"71026\"\n}",
   "GUID": "c82240",
   "Name": "Card",
-  "Nickname": "Confusion",
+  "Nickname": "혼란",
   "Transform": {
     "scaleX": 1,
     "scaleY": 1,
