@@ -10,11 +10,11 @@
       "Type": 0
     }
   },
-  "Description": "Hazard.",
+  "Description": "위험.",
   "GMNotes": "{\n  \"id\": \"71056\"\n}",
   "GUID": "7e47c8",
   "Name": "Card",
-  "Nickname": "Inexplicable Cold",
+  "Nickname": "설명할 수 없는 한기",
   "Transform": {
     "scaleX": 1,
     "scaleY": 1,
