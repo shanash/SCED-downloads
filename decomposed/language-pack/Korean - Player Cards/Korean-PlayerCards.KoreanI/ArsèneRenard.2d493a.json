@@ -10,11 +10,11 @@
       "Type": 0
     }
   },
-  "Description": "Gentleman Thief",
+  "Description": "괴도 신사",
   "GMNotes": "{\n  \"id\": \"71030\"\n}",
   "GUID": "2d493a",
   "Name": "Card",
-  "Nickname": "Arsène Renard",
+  "Nickname": "아르센 르나르",
   "Transform": {
     "scaleX": 1,
     "scaleY": 1,

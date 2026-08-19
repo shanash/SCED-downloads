@@ -10,11 +10,11 @@
       "Type": 0
     }
   },
-  "Description": "Spell. Rival.",
+  "Description": "마법. 라이벌.",
   "GMNotes": "{\n  \"id\": \"71038\"\n}",
   "GUID": "01a793",
   "Name": "Card",
-  "Nickname": "Ward of Preservation",
+  "Nickname": "보존의 수호부",
   "Transform": {
     "scaleX": 1,
     "scaleY": 1,
