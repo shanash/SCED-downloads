@@ -10,11 +10,11 @@
       "Type": 0
     }
   },
-  "Description": "Monster. Dreamlands. Shantak.",
+  "Description": "괴물. 드림랜드. 샨타크.",
   "GMNotes": "{\n  \"id\": \"71049\"\n}",
   "GUID": "3b1b28",
   "Name": "Card",
-  "Nickname": "Savage Shantak",
+  "Nickname": "사나운 샨타크",
   "Transform": {
     "scaleX": 1,
     "scaleY": 1,
