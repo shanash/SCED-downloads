@@ -10,11 +10,11 @@
       "Type": 0
     }
   },
-  "Description": "Humanoid. Police. Rival.",
+  "Description": "인간형. 경찰. 라이벌.",
   "GMNotes": "{\n  \"id\": \"71020\"\n}",
   "GUID": "4297f8",
   "Name": "Card",
-  "Nickname": "Rookie Cop",
+  "Nickname": "신참 경찰",
   "Transform": {
     "scaleX": 1,
     "scaleY": 1,
