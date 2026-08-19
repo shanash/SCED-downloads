@@ -10,11 +10,11 @@
       "Type": 0
     }
   },
-  "Description": "Monster. Dreamlands. Servitor.",
+  "Description": "괴물. 드림랜드. 시종.",
   "GMNotes": "{\n  \"id\": \"71048\"\n}",
   "GUID": "4a9f92",
   "Name": "Card",
-  "Nickname": "Abhorrent Moon-Beast",
+  "Nickname": "혐오스러운 달짐승",
   "Transform": {
     "scaleX": 1,
     "scaleY": 1,
