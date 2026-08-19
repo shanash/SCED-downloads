@@ -10,11 +10,11 @@
       "Type": 0
     }
   },
-  "Description": "Power.",
+  "Description": "권능.",
   "GMNotes": "{\n  \"id\": \"71057\"\n}",
   "GUID": "14775e",
   "Name": "Card",
-  "Nickname": "Mind Extraction",
+  "Nickname": "정신 추출",
   "Transform": {
     "scaleX": 1,
     "scaleY": 1,

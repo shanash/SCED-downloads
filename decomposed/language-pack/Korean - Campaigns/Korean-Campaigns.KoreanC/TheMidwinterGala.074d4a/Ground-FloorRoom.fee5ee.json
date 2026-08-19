@@ -11,11 +11,11 @@
       "UniqueBack": true
     }
   },
-  "Description": "Manor. Ground Floor.",
+  "Description": "저택. 1층.",
   "GMNotes": "{\n  \"id\": \"71009\"\n}",
   "GUID": "fee5ee",
   "Name": "Card",
-  "Nickname": "Ground-Floor Room",
+  "Nickname": "1층 방",
   "Transform": {
     "scaleX": 1,
     "scaleY": 1,
