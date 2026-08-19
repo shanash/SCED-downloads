@@ -10,11 +10,11 @@
       "Type": 0
     }
   },
-  "Description": "Scheme.",
+  "Description": "책략.",
   "GMNotes": "{\n  \"id\": \"71050\"\n}",
   "GUID": "f3c4c3",
   "Name": "Card",
-  "Nickname": "Vicious Ambush",
+  "Nickname": "잔혹한 매복",
   "Transform": {
     "scaleX": 1,
     "scaleY": 1,

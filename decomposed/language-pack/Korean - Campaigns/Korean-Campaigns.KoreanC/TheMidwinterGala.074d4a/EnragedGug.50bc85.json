@@ -10,11 +10,11 @@
       "Type": 0
     }
   },
-  "Description": "Monster. Dreamlands. Gug.",
+  "Description": "괴물. 드림랜드. 구그.",
   "GMNotes": "{\n  \"id\": \"71047\"\n}",
   "GUID": "50bc85",
   "Name": "Card",
-  "Nickname": "Enraged Gug",
+  "Nickname": "격노한 구그",
   "Transform": {
     "scaleX": 1,
     "scaleY": 1,

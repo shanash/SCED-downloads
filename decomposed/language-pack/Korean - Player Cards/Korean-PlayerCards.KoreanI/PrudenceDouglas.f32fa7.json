@@ -10,11 +10,11 @@
       "Type": 0
     }
   },
-  "Description": "Pragmatic Occultist",
+  "Description": "실용주의 신비학자",
   "GMNotes": "{\n  \"id\": \"71035\"\n}",
   "GUID": "f32fa7",
   "Name": "Card",
-  "Nickname": "Prudence Douglas",
+  "Nickname": "프루던스 더글러스",
   "Transform": {
     "scaleX": 1,
     "scaleY": 1,
