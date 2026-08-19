@@ -10,11 +10,11 @@
       "Type": 0
     }
   },
-  "Description": "Astute Agent",
+  "Description": "기민한 요원",
   "GMNotes": "{\n  \"id\": \"71017\"\n}",
   "GUID": "6cd7ec",
   "Name": "Card",
-  "Nickname": "Archibald Hudson",
+  "Nickname": "아치볼드 허드슨",
   "Transform": {
     "scaleX": 1,
     "scaleY": 1,

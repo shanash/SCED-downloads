@@ -10,11 +10,11 @@
       "Type": 0
     }
   },
-  "Description": "Medical Examiner",
+  "Description": "검시관",
   "GMNotes": "{\n  \"id\": \"71023\"\n}",
   "GUID": "27e870",
   "Name": "Card",
-  "Nickname": "Dr. Mya Badry",
+  "Nickname": "마야 배드리 박사",
   "Transform": {
     "scaleX": 1,
     "scaleY": 1,
