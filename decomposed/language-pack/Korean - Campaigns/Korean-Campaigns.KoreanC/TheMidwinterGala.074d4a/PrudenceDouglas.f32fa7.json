@@ -1,0 +1,23 @@
+{
+  "CardID": 917512,
+  "CustomDeck": {
+    "9175": {
+      "BackIsHidden": true,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+      "FaceURL": "https://pub-05b4fa32b44341d797f5c66d59384724.r2.dev/langpack/images/sha256/f4/f46d322fe08104acbf59cdf38843dbcdc38e651127c1ad03c94e58f9b45d7d0a.png",
+      "NumHeight": 5,
+      "NumWidth": 8,
+      "Type": 0
+    }
+  },
+  "Description": "실용주의 신비학자",
+  "GMNotes": "{\n  \"id\": \"71035\"\n}",
+  "GUID": "f32fa7",
+  "Name": "Card",
+  "Nickname": "프루던스 더글러스",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}
