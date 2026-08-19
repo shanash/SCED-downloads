@@ -11,11 +11,11 @@
       "UniqueBack": true
     }
   },
-  "Description": "Agenda 3",
+  "Description": "주요사건 3",
   "GMNotes": "{\n  \"id\": \"71004\"\n}",
   "GUID": "f02004",
   "Name": "Card",
-  "Nickname": "A Killer Party",
+  "Nickname": "죽여주는 파티",
   "SidewaysCard": true,
   "Transform": {
     "scaleX": 1,

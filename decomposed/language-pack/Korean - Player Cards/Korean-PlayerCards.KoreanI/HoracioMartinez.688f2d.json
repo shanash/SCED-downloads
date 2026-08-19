@@ -10,11 +10,11 @@
       "Type": 0
     }
   },
-  "Description": "Brash Bodyguard",
+  "Description": "저돌적인 경호원",
   "GMNotes": "{\n  \"id\": \"71019\"\n}",
   "GUID": "688f2d",
   "Name": "Card",
-  "Nickname": "Horacio Martinez",
+  "Nickname": "오라시오 마르티네스",
   "Transform": {
     "scaleX": 1,
     "scaleY": 1,
