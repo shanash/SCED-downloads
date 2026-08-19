@@ -10,11 +10,11 @@
       "Type": 0
     }
   },
-  "Description": "Terror.",
+  "Description": "두려움.",
   "GMNotes": "{\n  \"id\": \"71054\"\n}",
   "GUID": "e73f2b",
   "Name": "Card",
-  "Nickname": "Bleeding Walls",
+  "Nickname": "피 흘리는 벽",
   "Transform": {
     "scaleX": 1,
     "scaleY": 1,
