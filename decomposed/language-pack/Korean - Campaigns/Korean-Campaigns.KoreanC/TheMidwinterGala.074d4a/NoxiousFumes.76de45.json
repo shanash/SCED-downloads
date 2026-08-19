@@ -10,11 +10,11 @@
       "Type": 0
     }
   },
-  "Description": "Hazard.",
+  "Description": "위험.",
   "GMNotes": "{\n  \"id\": \"71058\"\n}",
   "GUID": "76de45",
   "Name": "Card",
-  "Nickname": "Noxious Fumes",
+  "Nickname": "유독 가스",
   "Transform": {
     "scaleX": 1,
     "scaleY": 1,

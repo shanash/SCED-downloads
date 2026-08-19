@@ -10,11 +10,11 @@
       "Type": 0
     }
   },
-  "Description": "Weapons Expert",
+  "Description": "무기 전문가",
   "GMNotes": "{\n  \"id\": \"71018\"\n}",
   "GUID": "d97c01",
   "Name": "Card",
-  "Nickname": "Special Agent Callahan",
+  "Nickname": "캘러핸 특별 요원",
   "Transform": {
     "scaleX": 1,
     "scaleY": 1,
