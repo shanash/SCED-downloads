@@ -10,11 +10,11 @@
       "Type": 0
     }
   },
-  "Description": "Lantern Club Infiltrator",
+  "Description": "랜턴 클럽 잠입자",
   "GMNotes": "{\n  \"id\": \"71041\"\n}",
   "GUID": "a6d899",
   "Name": "Card",
-  "Nickname": "Delores Gadling",
+  "Nickname": "딜로리스 개들링",
   "Transform": {
     "scaleX": 1,
     "scaleY": 1,
