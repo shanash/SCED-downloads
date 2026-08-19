@@ -11,11 +11,11 @@
       "UniqueBack": true
     }
   },
-  "Description": "Agenda 1",
+  "Description": "주요사건 1",
   "GMNotes": "{\n  \"id\": \"71002\"\n}",
   "GUID": "dfdd26",
   "Name": "Card",
-  "Nickname": "Masked Revelers",
+  "Nickname": "가면 쓴 연회객",
   "SidewaysCard": true,
   "Transform": {
     "scaleX": 1,

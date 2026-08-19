@@ -10,11 +10,11 @@
       "Type": 0
     }
   },
-  "Description": "Faculty Curator",
+  "Description": "학예사",
   "GMNotes": "{\n  \"id\": \"71024\"\n}",
   "GUID": "041fd0",
   "Name": "Card",
-  "Nickname": "Lucas Tetlow",
+  "Nickname": "루카스 테틀로",
   "Transform": {
     "scaleX": 1,
     "scaleY": 1,
