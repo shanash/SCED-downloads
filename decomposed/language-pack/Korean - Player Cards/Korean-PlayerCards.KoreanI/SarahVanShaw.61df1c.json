@@ -10,11 +10,11 @@
       "Type": 0
     }
   },
-  "Description": "Lodge Warden",
+  "Description": "회관 관리인",
   "GMNotes": "{\n  \"id\": \"71036\"\n}",
   "GUID": "61df1c",
   "Name": "Card",
-  "Nickname": "Sarah Van Shaw",
+  "Nickname": "사라 밴 쇼",
   "Transform": {
     "scaleX": 1,
     "scaleY": 1,
