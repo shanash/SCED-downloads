@@ -11,11 +11,11 @@
       "UniqueBack": true
     }
   },
-  "Description": "Act 1",
+  "Description": "주요목적 1",
   "GMNotes": "{\n  \"id\": \"71005\"\n}",
   "GUID": "764060",
   "Name": "Card",
-  "Nickname": "Meet and Greet",
+  "Nickname": "만남의 자리",
   "SidewaysCard": true,
   "Transform": {
     "scaleX": 1,

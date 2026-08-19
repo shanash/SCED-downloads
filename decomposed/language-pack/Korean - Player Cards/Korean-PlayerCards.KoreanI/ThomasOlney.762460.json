@@ -10,11 +10,11 @@
       "Type": 0
     }
   },
-  "Description": "Inquisitive Adventurer",
+  "Description": "호기심 많은 모험가",
   "GMNotes": "{\n  \"id\": \"71042\"\n}",
   "GUID": "762460",
   "Name": "Card",
-  "Nickname": "Thomas Olney",
+  "Nickname": "토머스 올니",
   "Transform": {
     "scaleX": 1,
     "scaleY": 1,

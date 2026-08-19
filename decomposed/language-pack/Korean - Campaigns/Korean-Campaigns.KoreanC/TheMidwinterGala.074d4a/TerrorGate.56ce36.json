@@ -10,11 +10,11 @@
       "Type": 0
     }
   },
-  "Description": "Terror.",
+  "Description": "두려움.",
   "GMNotes": "{\n  \"id\": \"71061\"\n}",
   "GUID": "56ce36",
   "Name": "Card",
-  "Nickname": "Terror Gate",
+  "Nickname": "두려움의 문",
   "Transform": {
     "scaleX": 1,
     "scaleY": 1,
