@@ -10,11 +10,11 @@
       "Type": 0
     }
   },
-  "Description": "Antiquities \"Trader\"",
+  "Description": "골동품 \"거래상\"",
   "GMNotes": "{\n  \"id\": \"71029\"\n}",
   "GUID": "9fdc8c",
   "Name": "Card",
-  "Nickname": "Miranda Keeper",
+  "Nickname": "미란다 키퍼",
   "Transform": {
     "scaleX": 1,
     "scaleY": 1,
