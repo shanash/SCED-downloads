@@ -10,11 +10,11 @@
       "Type": 0
     }
   },
-  "Description": "Mysterious Benefactor",
+  "Description": "수수께끼의 후원자",
   "GMNotes": "{\n  \"id\": \"71037\"\n}",
   "GUID": "1fca2a",
   "Name": "Card",
-  "Nickname": "Raymond Loggins",
+  "Nickname": "레이먼드 로긴스",
   "Transform": {
     "scaleX": 1,
     "scaleY": 1,
