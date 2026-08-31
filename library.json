@@ -619,6 +619,16 @@
       "description": "A set of five investigators with simple 5/2 mainclass/subclass deckbuilding that are meant to cover for the situations where the official investigators in that class combination can not use their card pool as much as we'd want."
     },
     {
+      "name": "Arknights",
+      "type": "playercards",
+      "author": "Samari",
+      "decomposed": false,
+      "filename": "arknights",
+      "boxsize": "small",
+      "boxart": "https://pub-05b4fa32b44341d797f5c66d59384724.r2.dev/boxart/arknights.jpg",
+      "description": "92 fan-made investigators from Hypergryph's Arknights across 22 sets, with their signature and weakness cards. Korean text only. Korean edition by Samari."
+    },
+    {
       "name": "Baldurs Gate III",
       "type": "playercards",
       "author": "Mint Tea Fan",
@@ -1967,8 +1977,8 @@
       "type": "scenario",
       "author": "Axolotl",
       "decomposed": true,
-      "filename": "symphony_of_erich_zann",
       "cycle_code": "6afb2ea0-d5c6-434a-aea9-2b1beff8c74a",
+      "filename": "symphony_of_erich_zann",
       "boxsize": "small",
       "boxart": "https://steamusercontent-a.akamaihd.net/ugc/11117659806720730683/DD87FA50949AEC76EF245560B6F525084F7748F6/",
       "description": "Investigators must discover 'The Symphony of Erich Zann' and uncover the mystery behind the disappearance of the titular violist."
